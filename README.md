@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sadinal Mufti</h1>
+<h1 align="center">Hi, I'm Sadinal Mufti</h1>
 
 <p align="center">
 AI Engineer • Data Scientist • Machine Learning Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;AI+Developer;Data+Scientist;Fullstack+Developer;Open+Source+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Engineer;Data+Scientist;Deep+Learning+Enthusiast;Building+Intelligent+Solutions" />
 </p>
 
 ---
