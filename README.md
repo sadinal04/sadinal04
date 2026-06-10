@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sadinal Mufti</h1>
 
 <p align="center">
-AI Engineer • Data Scientist • Machine Learning Enthusiast
+Data Analysis • Data Science • Machine Learning & AI Enthusiast
 </p>
 
 <p align="center">
